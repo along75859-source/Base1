@@ -56,4 +56,5 @@ Update setup instructions
 Add usage examples
 Refine deployment guide
 Fix documentation typo
-    
+Add configuration example
+
