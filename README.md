@@ -35,3 +35,4 @@ Add security notes
 Improve documentation formatting
 Create example contract
 Update project settings
+Add utility script
