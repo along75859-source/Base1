@@ -51,3 +51,4 @@ Update repository content
 Prepare release version
 .........
 Improve README formatting
+Add project introduction
