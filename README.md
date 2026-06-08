@@ -41,3 +41,4 @@ Improve logging
 Add testing examples
 Update changelog
 Add integration notes
+Improve repository organization
