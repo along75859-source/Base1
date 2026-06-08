@@ -49,3 +49,4 @@ Improve deployment instructions
 Add final adjustments
 Update repository content
 Prepare release version
+.........
