@@ -22,3 +22,4 @@ Refactor helper methods
 Improve naming conventions
 Add environment configuration
 Update build settings
+Clean unused files
