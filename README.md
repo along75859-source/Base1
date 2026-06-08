@@ -50,3 +50,4 @@ Add final adjustments
 Update repository content
 Prepare release version
 .........
+Improve README formatting
