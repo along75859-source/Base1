@@ -40,3 +40,4 @@ Refactor deployment workflow
 Improve logging
 Add testing examples
 Update changelog
+Add integration notes
