@@ -34,3 +34,4 @@ Update project metadata
 Add security notes
 Improve documentation formatting
 Create example contract
+Update project settings
