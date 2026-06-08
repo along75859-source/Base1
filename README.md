@@ -63,3 +63,4 @@ ucture
 Refactor helper utilities
 Update dependency list
 Add testing instructions
+Improve file organization
