@@ -52,3 +52,4 @@ Prepare release version
 .........
 Improve README formatting
 Add project introduction
+Update setup instructions
