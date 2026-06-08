@@ -31,3 +31,4 @@ Refactor configuration
 Improve code readability
 Add troubleshooting notes
 Update project metadata
+Add security notes
