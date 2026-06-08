@@ -25,3 +25,4 @@ Update build settings
 Clean unused files
 Add deployment script
 Improve project structure
+Update installation guide
