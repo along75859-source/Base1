@@ -39,3 +39,4 @@ Add utility script
 Refactor deployment workflow
 Improve logging
 Add testing examples
+Update changelog
