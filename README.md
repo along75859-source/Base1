@@ -46,3 +46,4 @@ Update contract comments
 Add helper documentation
 Refactor project files
 Improve deployment instructions
+Add final adjustments
