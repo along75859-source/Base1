@@ -62,3 +62,4 @@ Improve code strAdd project notes
 ucture
 Refactor helper utilities
 Update dependency list
+Add testing instructions
